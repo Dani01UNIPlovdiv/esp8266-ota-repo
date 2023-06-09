@@ -1,0 +1,47 @@
+      body {
+        background-color: hsl(0, 0%, 43%);
+      }
+      h1 {
+        text-align: center;
+        color: #000000;
+      }
+      p {
+        text-align: center;
+        color: #000000;
+      }
+			div {
+				text-align: center;
+			}
+			#upload {
+				background-color: #6f4caf; /* Green */
+				border: none;
+				color: white;
+				padding: 15px 32px;
+				text-align: center;
+				text-decoration: none;
+				display: inline-block;
+				font-size: 20px;
+			}
+			#otafile
+			{
+				background-color: #6f4caf; /* Green */
+				border: none;
+				color: white;
+				padding: 15px 32px;
+				text-align: center;
+				text-decoration: none;
+				display: inline-block;
+				font-size: 16px;
+				margin-top: 40%;
+			}
+			.table .th
+			{
+				background-color: #6f4caf; /* Green */
+				border: none;
+				color: white;
+				padding: 15px 32px;
+				text-align: center;
+				text-decoration: none;
+				display: inline-block;
+				font-size: 16px;
+			}
